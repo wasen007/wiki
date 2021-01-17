@@ -3,9 +3,9 @@ Tu souhaites être collaborateur de ce cours ?
 
 Si oui rejoins nous -> https://discord.gg/3HwpAtEGGE
 
+Vous voulez contribuer au cours, alors fait un fork sur notre repository.
 
-Puis fait un work du repository, modifie à ta guise
-et fait un pull request
+Puis quand c'est terminé fait un pull request pour qu'on valide ton chef d'oeuvre
 
 
 
